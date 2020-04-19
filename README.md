@@ -17,7 +17,7 @@ An Selenium script to withdraw invitations from LinkedIn
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/crazzycoder77/LinkedIn-Invitation-Withdraw/blob/master/LICENSE) file for details
 
 
 
