@@ -1,4 +1,4 @@
-# EXTRIMIS
+# LinkedIn Invitation Withdraw
 
 A Selenium script to withdraw invitations from LinkedIn
 
